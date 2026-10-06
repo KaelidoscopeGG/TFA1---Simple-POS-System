@@ -16,7 +16,7 @@ class App extends BaseConfig
      *
      * E.g., http://example.com/
      */
-    public string $baseURL = 'http://localhost/tfa1/';
+    public string $baseURL = 'sensational-mochi-b6d133.netlify.app';
 
     /**
      * Allowed Hostnames in the Site URL other than the hostname in the baseURL.
