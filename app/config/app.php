@@ -16,7 +16,7 @@ class App extends BaseConfig
      *
      * E.g., http://example.com/
      */
-    public string $baseURL = 'sensational-mochi-b6d133.netlify.app';
+    public string $baseURL = 'https://casleyworks.com/Eugenio_TFA1/';
 
     /**
      * Allowed Hostnames in the Site URL other than the hostname in the baseURL.
